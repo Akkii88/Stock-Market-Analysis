@@ -10,6 +10,17 @@
 
 ---
 
+## 📊 Dashboard Screenshots
+
+<div align="center">
+  <img src="Dashboard/dashboard1.png" alt="Dashboard Screenshot 1" width="800">
+  <img src="Dashboard/dashboard2.png" alt="Dashboard Screenshot 2" width="800">
+  <img src="Dashboard/dashboard3.png" alt="Dashboard Screenshot 3" width="800">
+  <img src="Dashboard/dashboard4.png" alt="Dashboard Screenshot 4" width="800">
+</div>
+
+---
+
 ## 🚀 Overview
 
 This project analyzes historical stock market data for six major technology companies using Python's Pandas library for data manipulation and Tableau for interactive visualization. The analysis includes technical indicators, price trends, and volume analysis.
@@ -39,7 +50,12 @@ Stock-Market-Analysis/
 ├── 📈 Google.csv                             # Alphabet stock data
 ├── 📈 Nvidia.csv                             # NVIDIA stock data
 ├── 📈 Tesla.csv                              # Tesla stock data
-└── 📈 Twitter.csv                            # Twitter stock data
+├── 📈 Twitter.csv                            # Twitter stock data
+└── 📊 Dashboard/                             # Dashboard screenshots
+    ├── dashboard1.png
+    ├── dashboard2.png
+    ├── dashboard3.png
+    └── dashboard4.png
 ```
 
 ---
