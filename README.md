@@ -160,13 +160,6 @@ for df in dfs:
     df['MA200'] = df.Close.rolling(200).mean()
 ```
 
----
-
-## 👤 Author
-
-Rohan Verma - [GitHub Profile](https://github.com/Akkii88)
-
----
 
 ## 📝 License
 
