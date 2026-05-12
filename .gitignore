@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Tableau temp files
+*~.twb*
+*~.twbr
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.Python
